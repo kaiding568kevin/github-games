@@ -3,6 +3,7 @@
 name: Kai Ding
 facilitate: Madelyn Kapfhammer
 date: 11-16-2023
+# this is a very nice training
 
 
 A project based learning activity for people who are getting started with Git and GitHub.
