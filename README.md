@@ -1,5 +1,8 @@
 ## Welcome to GitHub Games
 
+name: Kai Ding
+
+
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: https://github.com/kaiding568kevin/github-games
