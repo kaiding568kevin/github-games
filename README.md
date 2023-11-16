@@ -1,6 +1,8 @@
 ## Welcome to GitHub Games
 
 name: Kai Ding
+facilitate: Madelyn Kapfhammer
+
 
 
 A project based learning activity for people who are getting started with Git and GitHub.
